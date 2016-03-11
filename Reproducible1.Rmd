@@ -7,7 +7,7 @@ output: html_document
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-The file Reproducible1.html file is produced by this R markdwon document.
+The file Reproducible1.html and docx files are produced by this R markdwon document.
 
 This document contains some basic analysis of Activity monitoring dataset.
 The variables included in this dataset are :
